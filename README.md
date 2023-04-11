@@ -1,5 +1,4 @@
-![](./scr/avatar.png)
-
+<img src="./scr/avatar.png" width="120" height="auto"/>
 
 ## Hello 👋
 
